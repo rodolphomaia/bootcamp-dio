@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador</title>
+    <style>
+        .counter{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .counter div{
+            margin: 10px;
+        }
+
+        .counter .minus, .counter .plus {
+            background: #444;
+            color: #fff;
+            border-radius: 100px;
+            font-weight: bold;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <script src="script.js"></script>
+    <div class="counter">
+        <div class="minus"> - </div>
+        <div class="value">0</div>
+        <div class="plus"> + </div>
+    </div>
+</body>
+</html>
