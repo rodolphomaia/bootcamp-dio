@@ -37,7 +37,6 @@ function addTaskToList(){
 }
 
 function checkTask(el) {
-    console.log(el)
     if(el.checked) {
         el.nextElementSibling.setAttribute('class', 'line-through')
     } else {
