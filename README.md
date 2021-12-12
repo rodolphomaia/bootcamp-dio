@@ -1,4 +1,4 @@
-# :computer: Bootcamp MRV da DIO
+# :computer: Bootcamp da DIO
 ### Este repositório contém alguns exercícios realizados durante o bootcamp por mim.
 
 #### :book: Lista de exercícios realizados até o momento:
