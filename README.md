@@ -8,3 +8,4 @@
 - Just Cats (utilização do javascript assíncrono para chamada à API);
 - Contas bancárias (exercício de orientação à objetos em javascript);
 - Exercícios de map, filter e reduce;
+- Exercícios de manipulação do DOM;
